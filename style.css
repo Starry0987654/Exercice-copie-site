@@ -1,0 +1,79 @@
+body {  
+    font-family: 'Times New Roman', Times, serif;  
+    margin: 0;  
+    padding: 0;  
+}  
+
+h1 {  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    margin: 0;  
+
+}  
+
+nav {  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    display: flex;  
+    justify-content: end;  
+    height: 80px;  
+    background-color: #f0f0f0;  
+    padding: 0 20px;  
+}  
+
+.texte {  
+    position: relative;  
+}  
+
+img {  
+    max-width: 70%;  
+    max-height: 100%;  
+    margin: 20px 0;  
+    display: block;  
+}  
+
+.texteadroite{  
+    position: absolute;  
+    top: 0;  
+    right: 0;  
+    
+}  
+
+.hello {  
+    position: absolute;  
+    top: 0;  
+    right: 0;  
+    position: relative; 
+    position: relative;  
+    margin-left: 1300px;
+   margin-top: -70px;
+   background-color: #e70c0c;
+   
+
+}  
+
+.bouton {  
+    padding: 0.5em 0.5em 0.5em;  
+    background-color: #e2e1e7;  
+    position: absolute;  
+    left: 50%;  
+    top: 30; } 
+
+.text {  
+    position: relative;  
+    margin-left: 450px;
+   margin-top: -10px;
+}  
+
+.the{
+    font-size: 50px;
+}
+
+.image1 {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+  }
+
+  .more-news div {
+    padding: 1rem;}
+
+    
+ 
